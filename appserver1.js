@@ -1,4 +1,4 @@
-var axios = require(“axios”).default;
+
 const axios = require('axios');
 
 const options = {
@@ -24,4 +24,3 @@ axios.request(options).then(function (response) {
    }).catch(function (error) { 
     console.error(error); 
    });
-
