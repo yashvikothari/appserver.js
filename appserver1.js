@@ -1,6 +1,4 @@
 import axios from 'axios';
-
-
 const options = {
   method: 'GET',
   url: 'https://indianstockexchange.p.rapidapi.com/index.php',
