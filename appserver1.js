@@ -1,5 +1,5 @@
-var axios = require(“axios”).default;
-const axios = require('axios');
+import axios from 'axios';
+
 
 const options = {
   method: 'GET',
